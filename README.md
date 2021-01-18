@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a     href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
@@ -26,17 +26,17 @@
 
 <a href="https://github.com/MitsuGans/z/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MitsuGans/z?label=Watchers&color=blue&style=flat-square"></a>
 
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+
 
 </p>
 
 
-# pembuat AHMAD GUSTIAN ADI NUGRAHA
+## pembuat AHMAD GUSTIAN ADI NUGRAHA
 
-# Hubungi Ahmad Gustian Adi Nugraha
+## Hubungi Ahmad Gustian Adi Nugraha
 
 
- http://Wa.me/6282137409151
+[`nomor klik ini`](https://Wa.me/6282137409151)
 
 
 
