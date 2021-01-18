@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MitsuGans/z/main/Gans/images (15).jpeg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/Ahmad-G01/vhadisaputra/main/Gans/IMG_20200720_184156.jpg" width="230" height="230"/>
 
 </p>
 
@@ -31,10 +31,12 @@
 </p>
 
 
-#pembuat AHMAD GUSTIAN ADI NUGRAHA
+# pembuat AHMAD GUSTIAN ADI NUGRAHA
 
-#Hubungi Ahmad Gustian Adi Nugraha
-*[nomor hp] http://6282137409151
+# Hubungi Ahmad Gustian Adi Nugraha
+
+
+ http://Wa.me/6282137409151
 
 
 
